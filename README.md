@@ -1,2 +1,2 @@
 # @youharutou/keyboard
-A virtual keyboard for mobile HTML5
+A jQuery virtual keyboard plugin for mobile HTML5
